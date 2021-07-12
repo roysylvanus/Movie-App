@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movie MVVM</string>
+    <string name="connection_problems">Connection problems</string>
+    <string name="release_date">Release date: </string>
+    <string name="rating">"Rating: "</string>
+    <string name="runtime">Runtime</string>
+    <string name="budget">Budget</string>
+    <string name="revenue">Revenue</string>
+    <string name="overview">Overview</string>
+    <string name="movie_api_key">8b5851940225a01036f02ec031b2d405</string>
+</resources>
